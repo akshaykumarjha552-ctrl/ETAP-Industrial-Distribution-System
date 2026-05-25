@@ -13,7 +13,7 @@ The objective of the study is to evaluate bus voltage profile, feeder loading, p
 - Distribution Feeders
 - Industrial Lumped Loads
 
-  ![ETAP Load Flow Analysis](SLD_LoadFlow_Analysis.png)
+ - ![ETAP Load Flow Analysis](SLD_LoadFlow_Analysis.png)
 
 
 ## Load Flow Analysis
