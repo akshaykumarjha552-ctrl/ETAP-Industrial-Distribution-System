@@ -9,7 +9,8 @@ The objective of the study is to evaluate bus voltage profile, feeder loading, p
 
 # Single Line Diagram & Load Flow Analysis
 
-![ETAP Load Flow Analysis](ETAP_LOAD _FLOW.png)
+![ETAP Load Flow Analysis](ETAP_LOAD _FLOW.png
+)
 
 # Key Components
 
